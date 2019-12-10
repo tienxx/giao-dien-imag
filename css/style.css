@@ -1,0 +1,50 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background: #f6f5f1;
+}
+#tpage{
+	width: 1000px;
+	margin: 0px auto;
+
+	min-height: 500px;
+	background-color: #fff; 
+}
+
+
+
+#page{
+	width: 1000px;
+	margin: 0px auto;
+
+}
+
+nav#nav-nav{
+	background-color: yellow;
+
+}
+
+#body-page{
+	background-color: #fff;
+	min-height: 500px;
+}
+
+section#lef-page{
+	width: 750px;
+	padding: 10px; 
+	float: left;
+	background-color: cyan;
+}
+
+aside{
+	width: 250px;
+	padding: 10px; float: right;
+	background-color: red;
+}
+
+.clr{clear: both; }
+footer#footer-page{
+	min-height: 100px;
+	background-color: #252525;
+}
