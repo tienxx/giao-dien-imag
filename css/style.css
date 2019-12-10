@@ -34,17 +34,26 @@ section#lef-page{
 	width: 750px;
 	padding: 10px; 
 	float: left;
-	background-color: cyan;
+	
 }
 
 aside{
 	width: 250px;
-	padding: 10px; float: right;
-	background-color: red;
+	padding: 10px; 
+	float: right;
+	
 }
 
 .clr{clear: both; }
 footer#footer-page{
 	min-height: 100px;
 	background-color: #252525;
+}
+
+.block{
+	width: 100%;
+
+}
+.block header{
+	border-top: 2px;
 }
